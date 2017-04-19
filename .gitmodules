@@ -4,3 +4,6 @@
 [submodule "ta-ss-api"]
 	path = ta-ss-api
 	url = https://github.com/miskillstech/ta-ss-api.git
+[submodule "ta-ma-pt-frontend"]
+	path = ta-ma-pt-frontend
+	url = https://github.com/miskillstech/ta-ma-pt-frontend.git
