@@ -1,0 +1,3 @@
+[submodule "ta-wa-backend"]
+	path = ta-wa-backend
+	url = https://github.com/miskillstech/ta-wa-backend.git
