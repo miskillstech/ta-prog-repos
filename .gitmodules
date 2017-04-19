@@ -10,3 +10,6 @@
 [submodule "ta-wa-dr-frontend"]
 	path = ta-wa-dr-frontend
 	url = https://github.com/miskillstech/ta-wa-dr-frontend.git
+[submodule "ta-wa-pt-frontend"]
+	path = ta-wa-pt-frontend
+	url = https://github.com/miskillstech/ta-wa-pt-frontend.git
