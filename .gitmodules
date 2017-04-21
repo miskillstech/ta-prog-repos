@@ -1,6 +1,3 @@
-[submodule "ta-wa-backend"]
-	path = ta-wa-backend
-	url = https://github.com/miskillstech/ta-wa-backend.git
 [submodule "ta-ss-api"]
 	path = ta-ss-api
 	url = https://github.com/miskillstech/ta-ss-api.git
